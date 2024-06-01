@@ -1,0 +1,91 @@
+[
+
+    {
+      "id": 0,
+      "name": "Toyota",
+      "locations": "Chatswood, Parramatta, Castle Hill, Newtown",
+      "imageName": "https://global.toyota/pages/global_toyota/mobility/toyota-brand/emblem_001.jpg",
+      "thumbnailName": "CarsResources/toyota.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 1,
+      "name": "Mercedes",
+      "locations": "Liverpool, Blacktown, Manly, Bondi",
+      "imageName": "https://e7.pngegg.com/pngimages/803/525/png-clipart-mercedes-benz-logo-audi-car-bmw-mercedes-benz-luxury-vehicle-mercedes-benz-logo-miscellaneous-emblem.png",
+      "thumbnailName": "CarsResources/honda.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 2,
+      "name": "Ford",
+      "locations": "Penrith, Richmond, Campbelltown, Strathfield",
+      "imageName": "https://car-brand-names.com/wp-content/uploads/2015/07/Ford-Logo.png",
+      "thumbnailName": "CarsResources/ford.jpg",
+      "type": "Diesel"
+    },
+    {
+      "id": 3,
+      "name": "BMW",
+      "locations": "Sydney CBD, North Sydney, Surry Hills, Paddington",
+      "imageName": "https://w7.pngwing.com/pngs/596/342/png-transparent-bmw-car-standard-logo-bmw-car.png",
+      "thumbnailName": "CarsResources/bmw.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 4,
+      "name": "Audi",
+      "locations": "Brookvale, Dee Why, St Leonards, Gladesville",
+      "imageName": "https://w7.pngwing.com/pngs/665/220/png-transparent-audi-logo-audi-a3-car-emblem-logo-audi-car-logo-brand-text-candle-automobile-repair-shop-thumbnail.png",
+      "thumbnailName": "CarsResources/audi.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 5,
+      "name": "Tata",
+      "locations": "Mascot, Alexandria, Maroubra, Coogee",
+      "imageName": "https://logos-world.net/wp-content/uploads/2021/10/Tata-Symbol.png",
+      "thumbnailName": "CarsResources/mercedes.jpg",
+      "type": "Electric"
+    },
+    {
+      "id": 6,
+      "name": "Hyundai",
+      "locations": "Bankstown, Lakemba, Campsie, Canterbury",
+      "imageName": "https://m.media-amazon.com/images/I/5187vMyqRDL.jpg",
+      "thumbnailName": "CarsResources/hyundai.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 7,
+      "name": "Mahindra",
+      "locations": "Hornsby, Wahroonga, Turramurra, Pymble",
+      "imageName": "https://images.news18.com/ibnlive/uploads/2021/08/1628490335_mahindra-logos-02-1600x1200.jpg",
+      "thumbnailName": "CarsResources/mazda.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 8,
+      "name": "Subaru",
+      "locations": "Artarmon, Willoughby, Crows Nest, Northbridge",
+      "imageName": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBAB5heK4v0_p0sMo0_xJ3-ySZMratNXeLw&usqp=CAU",
+      "thumbnailName": "CarsResources/subaru.jpg",
+      "type": "Petrol"
+    },
+    {
+      "id": 9,
+      "name": "Volkswagen",
+      "locations": "Epping, Carlingford, Eastwood, Ryde",
+      "imageName": "https://www.carlogos.org/logo/Volkswagen-logo-2000-1920x1080.png",
+      "thumbnailName": "CarsResources/volkswagen.jpg",
+      "type": "Diesel"
+    },
+    {
+      "id": 1,
+      "name": "Tesla",
+      "locations": "Fairfield, Cabramatta, Smithfield, Wetherill Park",
+      "imageName": "https://m.media-amazon.com/images/I/41-WtwMCz6S._AC_UF894,1000_QL80_.jpg",
+      "thumbnailName": "CarsResources/nissan.jpg",
+      "type": "Electric"
+    }
+  ]
